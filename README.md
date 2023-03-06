@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="![KakaoTalk_20230306_161409068](https://user-images.githubusercontent.com/100404914/223043104-fbab0552-03c9-4216-b9e4-12c658ac60a3.gif)">
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
